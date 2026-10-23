@@ -45,4 +45,4 @@ El script en R realiza las siguientes tareas sobre la información recolectada:
 ## 👥 Integrantes del Equipo
 * Edgar Adan Mercado Hernandez
 * Enrique Ibáñez cornejo
-  
+* Dolores Altagracia
