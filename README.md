@@ -46,3 +46,4 @@ El script en R realiza las siguientes tareas sobre la información recolectada:
 * Edgar Adan Mercado Hernandez
 * Enrique Ibáñez cornejo
 * Dolores Altagracia
+* Alberto de Jesús de Lara Ponce
